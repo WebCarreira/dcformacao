@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(135deg, #ffffff 0%, #457252 100%); /* Gradiente de Branco para Verde Excel muito claro */
-    background-image: url('patrao-grelha-excel-desfocado.png'); /* Imagem opcional muito ténue */
+    background-image: url('../img/fundo_excel.png'); /* Imagem opcional muito ténue */
     background-repeat: repeat;
     background-blend-mode: soft-light; /* Mistura a imagem com o gradiente */
 }
